@@ -14,7 +14,7 @@ Every project I build helps me grow as a developer and a **strong problem solver
 
 ---
 
-## 🚀 Tech Stack (With Font Awesome Icons)
+## 🚀 Tech Stack 
 
 ### 🖥 Languages  
 **C++ | C | Java | Python | PHP | JavaScript**
@@ -120,3 +120,9 @@ A property listing platform built using PHP + MySQL with:
 </p>
 
 ---
+
+
+---
+
+### Need GIF help?
+
