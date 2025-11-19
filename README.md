@@ -85,7 +85,7 @@ A real-estate platform built using **PHP + MySQL** with:
 
   <!-- Stats Card -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Abrar2212&show_icons=true&border_radius=12&bg_color=20,ffffff,e8e6f3,dcd9f9&title_color=6a5acd&icon_color=7a5cff&text_color=3b3b3b" 
+    src="https://github-readme-stats.vercel.app/api?username=Abrar2212&show_icons=true&border_radius=12&bg_color=20,2a0845,6441a5&title_color=e4d9ff&icon_color=ffb7ff&text_color=f3eaff" 
     alt="GitHub Stats" 
     width="420"
     height="210"
@@ -94,7 +94,7 @@ A real-estate platform built using **PHP + MySQL** with:
 
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar2212&layout=compact&border_radius=12&bg_color=20,ffffff,e8e6f3,dcd9f9&title_color=6a5acd&text_color=3b3b3b" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar2212&layout=compact&border_radius=12&bg_color=20,2a0845,6441a5&title_color=e4d9ff&text_color=f3eaff" 
     alt="Top Languages" 
     width="350"
     height="210"
@@ -106,7 +106,7 @@ A real-estate platform built using **PHP + MySQL** with:
 <!-- Profile Views -->
 <p align="right">
   <img 
-    src="https://komarev.com/ghpvc/?username=Abrar2212&label=PROFILE+VIEWS&color=6a5acd&style=flat-square" 
+    src="https://komarev.com/ghpvc/?username=Abrar2212&label=PROFILE+VIEWS&color=6441a5&style=flat-square" 
     alt="Profile Views"
   />
 </p>
