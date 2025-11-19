@@ -1,6 +1,8 @@
 <!-- Banner (animated GIF) -->
 <p align="center">
   <img src="./assets/banner.gif" alt="Banner" width="100%" />
+  <img src="./assets/banner.gif" />
+
 </p>
 
 # 👋 Hi — I'm Abrar Junaed
