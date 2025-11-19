@@ -18,10 +18,12 @@ I am passionate about building clean systems, solving complex problems, and impr
 
 
 <!-- Table Layout: LEFT = Languages + MERN, RIGHT = Banner -->
-<table>
+<!-- Full-width row -->
+<table width="100%">
 <tr>
-<td width="65%">
 
+<!-- LEFT SIDE: Languages + MERN -->
+<td width="70%" valign="top">
 
 ## 🖥 Languages
 <p align="left">
@@ -43,14 +45,21 @@ I am passionate about building clean systems, solving complex problems, and impr
 
 </td>
 
-<td width="35%" align="right" valign="top">
+<!-- RIGHT SIDE: FIXED RIGHT BANNER -->
+<td width="30%" valign="top" align="right">
 
-<!-- Banner on the RIGHT -->
-<img src="./assets/banner.gif" alt="Banner" width="220" style="border-radius:8px;max-width:100%;height:auto;display:block;float:right;" />
+<div style="float:right; width:100%; text-align:right;">
+  <img src="./assets/banner.gif" 
+       alt="Banner" 
+       width="240" 
+       style="border-radius:8px; max-width:100%; height:auto; display:inline-block;" />
+</div>
 
 </td>
+
 </tr>
 </table>
+
 
 ---
 
