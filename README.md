@@ -1,18 +1,20 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
 <!-- 🔥 Animated Banner -->
 <p align="center">
   <img src="./assets/banner.gif" alt="Profile Banner" width="100%" />
 </p>
 
 ## 👨‍💻 About Me
-I am **Abrar Junaed**, a passionate CSE student at UIU.  
+I am **Abrar Junaed**, a dedicated CSE student at UIU.  
 I love solving problems, building clean and efficient systems, and learning new technologies.  
 Every project I build helps me grow as a developer and a **strong problem solver**.
 
-<p align="center">💻 Passionate about MERN Stack, C++, PHP & Full-Stack Development</p>
+<p align="center">💻 Passionate about MERN Stack, C++, PHP & Full-Stack Web Development</p>
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack (With Font Awesome Icons)
 
 ### 🖥 Languages  
 **C++ | C | Java | Python | PHP | JavaScript**
@@ -20,42 +22,42 @@ Every project I build helps me grow as a developer and a **strong problem solver
 <p align="center">
 
   <!-- C++ -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" style="margin: 0 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" />
 
   <!-- C -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" style="margin: 0 12px;" />
+  <i class="fa-solid fa-c" style="font-size:48px; margin:0 12px;"></i>
 
   <!-- Java -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" style="margin: 0 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" />
 
   <!-- Python -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" style="margin: 0 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" />
 
   <!-- PHP -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" style="margin: 0 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" />
 
   <!-- JavaScript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" style="margin: 0 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" />
 
 </p>
 
 ---
 
-## ⚡ MERN & Web Technologies
+## ⚡ MERN & Modern Web Technologies (Font Awesome)
 
 <p align="center">
 
   <!-- React -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" style="margin: 0 15px;" />
+  <i class="fa-brands fa-react" style="font-size:60px; margin:0 16px; color:#61DAFB;"></i>
 
   <!-- MongoDB -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60" style="margin: 0 15px;" />
+  <i class="fa-solid fa-database" style="font-size:60px; margin:0 16px; color:#4AAA3C;"></i>
 
   <!-- Next.js -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="60" style="margin: 0 15px;" />
+  <i class="fa-brands fa-reacteurope" style="font-size:60px; margin:0 16px; color:#000;"></i>
 
   <!-- Express -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60" style="margin: 0 15px; filter: invert(100%);" />
+  <i class="fa-solid fa-code" style="font-size:60px; margin:0 16px; color:#888;"></i>
 
 </p>
 
@@ -97,9 +99,24 @@ A property listing platform built using PHP + MySQL with:
 ---
 
 ## ✉️ Contact Me
-- **Email:** abrarjunaed22@gamil.com  
-- **GitHub:** https://github.com/Abrar2212  
-- **Facebook:** https://www.facebook.com/abrar.junaed.2025  
+
+<p align="center">
+
+  <!-- Email -->
+  <a href="mailto:abrarjunaed22@gamil.com">
+    <i class="fa-solid fa-envelope" style="font-size:30px; margin:0 12px;"></i>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Abrar2212">
+    <i class="fa-brands fa-github" style="font-size:30px; margin:0 12px;"></i>
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/abrar.junaed.2025">
+    <i class="fa-brands fa-facebook" style="font-size:30px; margin:0 12px;"></i>
+  </a>
+
+</p>
 
 ---
-
