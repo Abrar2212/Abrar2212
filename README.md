@@ -94,4 +94,3 @@ A property listing platform built using PHP + MySQL with:
 
 ---
 
-<p align="center">✨ Thanks for visiting my profile! ✨</p>
