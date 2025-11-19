@@ -19,46 +19,46 @@ I am passionate about building clean systems, solving complex problems, and impr
 
 <!-- Table Layout: LEFT = Languages + MERN, RIGHT = Banner -->
 <!-- Full-width row -->
-<table width="100%">
+<table>
 <tr>
 
-<!-- LEFT SIDE: Languages + MERN -->
-<td width="70%" valign="top">
+<!-- LEFT SIDE (Languages + MERN) -->
+<td width="65%" valign="top">
 
-## 🖥 Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+<h2>🖥 Languages</h2>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
 </p>
 
-## ⚡ MERN Stack & Web Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" />
+<h2>⚡ MERN Stack & Web Tools</h2>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60"/>
 </p>
 
 </td>
 
-<!-- RIGHT SIDE: FIXED RIGHT BANNER -->
-<td width="30%" valign="top" align="right">
+<!-- RIGHT SIDE (Banner) -->
+<td width="35%" valign="top" align="right">
 
-<div style="float:right; width:100%; text-align:right;">
-  <img src="./assets/banner.gif" 
-       alt="Banner" 
-       width="240" 
-       style="border-radius:8px; max-width:100%; height:auto; display:inline-block;" />
-</div>
+<img src="./assets/banner.gif" 
+     alt="Banner"
+     width="260"
+     style="border-radius:8px;max-width:100%;height:auto;"
+/>
 
 </td>
 
 </tr>
 </table>
+
 
 
 ---
