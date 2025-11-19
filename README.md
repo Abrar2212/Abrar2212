@@ -73,36 +73,27 @@ A real-estate platform built using **PHP + MySQL** with:
 
 
 ## ✉️ Contact
-<div style="display:flex;justify-content:center;gap:18px;align-items:center;margin:10px 0 20px;flex-wrap:wrap;">
-  <a href="mailto:abrarjunaed22@gamil.com" style="text-decoration:none;color:inherit;">
-    <div style="display:flex;flex-direction:column;align-items:center;gap:6px;text-align:center;">
-      <div style="width:52px;height:52px;border-radius:12px;background:#f5f5f5;display:flex;align-items:center;justify-content:center;box-shadow:0 2px 6px rgba(0,0,0,0.08);transition:transform .12s;">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="28" />
-      </div>
-      <span style="font-size:13px;color:#222;">Email</span>
-    </div>
-  </a>
-
-  <a href="https://github.com/Abrar2212" style="text-decoration:none;color:inherit;">
-    <div style="display:flex;flex-direction:column;align-items:center;gap:6px;text-align:center;">
-      <div style="width:52px;height:52px;border-radius:12px;background:#f5f5f5;display:flex;align-items:center;justify-content:center;box-shadow:0 2px 6px rgba(0,0,0,0.08);transition:transform .12s;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="28" />
-      </div>
-      <span style="font-size:13px;color:#222;">GitHub</span>
-    </div>
-  </a>
-
-  <a href="https://www.facebook.com/abrar.junaed.2025" style="text-decoration:none;color:inherit;">
-    <div style="display:flex;flex-direction:column;align-items:center;gap:6px;text-align:center;">
-      <div style="width:52px;height:52px;border-radius:12px;background:#f5f5f5;display:flex;align-items:center;justify-content:center;box-shadow:0 2px 6px rgba(0,0,0,0.08);transition:transform .12s;">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="28" />
-      </div>
-      <span style="font-size:13px;color:#222;">Facebook</span>
-    </div>
-  </a>
-</div>
-
-<style>
-  /* Simple hover effect for GitHub flavoured readers that support inline style blocks */
-  a > div > div:hover { transform: translateY(-3px); }
-</style>
+<p align="center">
+  <table align="center" cellpadding="8" cellspacing="0" style="border-collapse:collapse;">
+    <tr>
+      <td align="center" style="vertical-align:middle;padding:8px;">
+        <a href="mailto:abrarjunaed22@gamil.com" style="text-decoration:none;color:inherit;">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="36" alt="Email" style="display:block;margin:0 auto 6px;" />
+          <div style="font-size:13px;color:#222;">Email</div>
+        </a>
+      </td>
+      <td align="center" style="vertical-align:middle;padding:8px;">
+        <a href="https://github.com/Abrar2212" style="text-decoration:none;color:inherit;">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36" alt="GitHub" style="display:block;margin:0 auto 6px;" />
+          <div style="font-size:13px;color:#222;">GitHub</div>
+        </a>
+      </td>
+      <td align="center" style="vertical-align:middle;padding:8px;">
+        <a href="https://www.facebook.com/abrar.junaed.2025" style="text-decoration:none;color:inherit;">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="36" alt="Facebook" style="display:block;margin:0 auto 6px;" />
+          <div style="font-size:13px;color:#222;">Facebook</div>
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
