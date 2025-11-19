@@ -59,23 +59,19 @@ A real-estate platform built using **PHP + MySQL** with:
 ---
 
 <!-- GitHub stats: two cards, same size and responsive -->
-<div style="display:flex; justify-content:center; align-items:center; gap:20px; flex-wrap:nowrap;">
-
-  <!-- GitHub Stats -->
+<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Abrar2212&show_icons=true&theme=radical" 
-    alt="GitHub stats" 
-    style="width:48%; min-width:350px; height:auto;"
+    alt="GitHub Stats" 
+    height="200"
   />
-
-  <!-- Most Used Languages -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar2212&layout=compact&theme=radical" 
-    alt="Top languages" 
-    style="width:48%; min-width:350px; height:auto;"
+    alt="Top Languages" 
+    height="200"
   />
+</p>
 
-</div>
 
 
 
