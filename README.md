@@ -80,21 +80,37 @@ A real-estate platform built using **PHP + MySQL** with:
 ---
 
 <!-- GitHub stats: two cards, same size and responsive -->
-<p align="center">
+<!-- GitHub Stats Section -->
+<div align="center" style="margin-top: 20px;">
+
+  <!-- Stats Card -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Abrar2212&show_icons=true&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api?username=Abrar2212&show_icons=true&theme=tokyonight&border_radius=10&bg_color=0,1b1c31,191a2e&title_color=9d4edd&icon_color=00f5ff&text_color=c9d1d9" 
     alt="GitHub Stats" 
-    width="400"
-    height="200"
+    width="420"
+    height="210"
+    style="border-radius: 12px; margin: 10px;"
   />
+
+  <!-- Languages Card -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar2212&layout=compact&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar2212&layout=compact&theme=tokyonight&border_radius=10&bg_color=0,1b1c31,191a2e&title_color=9d4edd&text_color=c9d1d9" 
     alt="Top Languages" 
-    width="400"
-    height="200"
+    width="350"
+    height="210"
+    style="border-radius: 12px; margin: 10px;"
+  />
+
+</div>
+
+<!-- Profile Views Badge (Styled & Colored) -->
+<p align="right">
+  <img 
+    src="https://komarev.com/ghpvc/?username=Abrar2212&label=Profile+Views&color=9d4edd&style=for-the-badge" 
+    alt="Profile Views"
   />
 </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Abrar2212&label=Profile%20views&color=0e75b6&style=flat" alt="Abrar2212" /> </p>
+
 
 
 
