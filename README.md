@@ -6,10 +6,22 @@ I am passionate about building clean systems, solving complex problems, and impr
 
 ---
 
+
+
+## ✉️ Contact
+<h3 align="left">Connect with me</h3>
+<p align="left">
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.facebook.com/abrar.junaed.2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Abrar2212" height="30" width="40" /></a>
+<a href="https://www.instagram.com/abrar_junaed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Abrar2212" height="30" width="40" /></a>
+</p>
+
+
 <!-- Table Layout: LEFT = Languages + MERN, RIGHT = Banner -->
 <table>
 <tr>
 <td width="65%">
+
 
 ## 🖥 Languages
 <p align="left">
@@ -31,10 +43,10 @@ I am passionate about building clean systems, solving complex problems, and impr
 
 </td>
 
-<td width="35%" align="right">
+<td width="35%" align="right" valign="top" style="padding-left:16px;">
 
 <!-- Banner on the RIGHT -->
-<img src="./assets/banner.gif" alt="Banner" width="250" style="border-radius:8px;" />
+<img src="./assets/banner.gif" alt="Banner" width="220" style="border-radius:8px;max-width:100%;height:auto;display:block;margin-left:auto;" />
 
 </td>
 </tr>
@@ -73,34 +85,9 @@ A real-estate platform built using **PHP + MySQL** with:
     height="200"
   />
 </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Abrar2212&label=Profile%20views&color=0e75b6&style=flat" alt="Abrar2212" /> </p>
 
 
 
 
 
-
-## ✉️ Contact
-<p align="center">
-  <table align="center" cellpadding="8" cellspacing="0" style="border-collapse:collapse;">
-    <tr>
-      <td align="center" style="vertical-align:middle;padding:8px;">
-        <a href="mailto:abrarjunaed22@gamil.com" style="text-decoration:none;color:inherit;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="36" alt="Email" style="display:block;margin:0 auto 6px;" />
-          <div style="font-size:13px;color:#222;"></div>
-        </a>
-      </td>
-      <td align="center" style="vertical-align:middle;padding:8px;">
-        <a href="https://github.com/Abrar2212" style="text-decoration:none;color:inherit;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36" alt="GitHub" style="display:block;margin:0 auto 6px;" />
-          <div style="font-size:13px;color:#222;"></div>
-        </a>
-      </td>
-      <td align="center" style="vertical-align:middle;padding:8px;">
-        <a href="https://www.facebook.com/abrar.junaed.2025" style="text-decoration:none;color:inherit;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="36" alt="Facebook" style="display:block;margin:0 auto 6px;" />
-          <div style="font-size:13px;color:#222;"></div>
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
