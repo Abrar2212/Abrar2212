@@ -3,8 +3,10 @@
   <img src="./assets/banner.gif" alt="Profile Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm <strong>Abrar Junaed</strong></h1>
-<p align="center">CSE Student • United International University (UIU)</p>
+## 👨‍💻 About Me
+I am **Abrar Junaed**, a passionate CSE student at UIU.  
+I love solving problems, building clean and efficient systems, and learning new technologies.  
+Every project I build helps me grow as a developer and a **strong problem solver**.
 
 <p align="center">💻 Passionate about MERN Stack, C++, PHP & Full-Stack Web Development</p>
 
@@ -88,7 +90,7 @@ A property listing platform built using PHP + MySQL with:
 
 - **Email:** abrarjunaed22@gamil.com  
 - **GitHub:** https://github.com/Abrar2212  
-- **LinkedIn:** *Add your profile link here*
+- **Facebook:** https://www.facebook.com/abrar.junaed.2025
 
 ---
 
