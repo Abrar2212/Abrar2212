@@ -14,52 +14,59 @@ Every project I build helps me grow as a developer and a **strong problem solver
 
 ---
 
-## 🚀 Tech Stack 
+## 🛠️ Tech Stack
 
-### 🖥 Languages  
-**C++ | C | Java | Python | PHP | JavaScript**
+Below are the main languages and tools I work with — using local logo files from `assets/` for a consistent look.
 
-<p align="center">
-
-  <!-- C++ -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" />
-
-  <!-- C -->
-  <i class="fa-solid fa-c" style="font-size:48px; margin:0 12px;"></i>
-
-  <!-- Java -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" />
-
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" />
-
-  <!-- PHP -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" />
-
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" />
-
-</p>
+### 🖥 Languages
+<div style="display:flex;flex-wrap:wrap;gap:18px;justify-content:center;align-items:center;margin:12px 0;">
+  <figure style="text-align:center;width:96px;margin:6px;display:flex;flex-direction:column;align-items:center;">
+    <img src="./assets/fa-cpp.gif" alt="C++" width="64" />
+    <figcaption style="font-size:12px;margin-top:6px">C++</figcaption>
+  </figure>
+  <figure style="text-align:center;width:96px;margin:6px;display:flex;flex-direction:column;align-items:center;">
+    <img src="./assets/fa-c.gif" alt="C" width="64" />
+    <figcaption style="font-size:12px;margin-top:6px">C</figcaption>
+  </figure>
+  <figure style="text-align:center;width:96px;margin:6px;display:flex;flex-direction:column;align-items:center;">
+    <img src="./assets/fa-java.gif" alt="Java" width="64" />
+    <figcaption style="font-size:12px;margin-top:6px">Java</figcaption>
+  </figure>
+  <figure style="text-align:center;width:96px;margin:6px;display:flex;flex-direction:column;align-items:center;">
+    <img src="./assets/fa-python.gif" alt="Python" width="64" />
+    <figcaption style="font-size:12px;margin-top:6px">Python</figcaption>
+  </figure>
+  <figure style="text-align:center;width:96px;margin:6px;display:flex;flex-direction:column;align-items:center;">
+    <img src="./assets/fa-php.gif" alt="PHP" width="64" />
+    <figcaption style="font-size:12px;margin-top:6px">PHP</figcaption>
+  </figure>
+  <figure style="text-align:center;width:96px;margin:6px;display:flex;flex-direction:column;align-items:center;">
+    <img src="./assets/fa-js.gif" alt="JavaScript" width="64" />
+    <figcaption style="font-size:12px;margin-top:6px">JavaScript</figcaption>
+  </figure>
+</div>
 
 ---
 
-## ⚡ MERN & Modern Web Technologies (Font Awesome)
-
-<p align="center">
-
-  <!-- React -->
-  <i class="fa-brands fa-react" style="font-size:60px; margin:0 16px; color:#61DAFB;"></i>
-
-  <!-- MongoDB -->
-  <i class="fa-solid fa-database" style="font-size:60px; margin:0 16px; color:#4AAA3C;"></i>
-
-  <!-- Next.js -->
-  <i class="fa-brands fa-reacteurope" style="font-size:60px; margin:0 16px; color:#000;"></i>
-
-  <!-- Express -->
-  <i class="fa-solid fa-code" style="font-size:60px; margin:0 16px; color:#888;"></i>
-
-</p>
+### ⚡ Frameworks & Tools
+<div style="display:flex;flex-wrap:wrap;gap:18px;justify-content:center;align-items:center;margin:12px 0;">
+  <figure style="text-align:center;width:96px;margin:6px;display:flex;flex-direction:column;align-items:center;">
+    <img src="./assets/fa-react.gif" alt="React" width="64" />
+    <figcaption style="font-size:12px;margin-top:6px">React</figcaption>
+  </figure>
+  <figure style="text-align:center;width:96px;margin:6px;display:flex;flex-direction:column;align-items:center;">
+    <img src="./assets/fa-mongodb.gif" alt="MongoDB" width="64" />
+    <figcaption style="font-size:12px;margin-top:6px">MongoDB</figcaption>
+  </figure>
+  <figure style="text-align:center;width:96px;margin:6px;display:flex;flex-direction:column;align-items:center;">
+    <img src="./assets/fa-nextjs.gif" alt="Next.js" width="64" />
+    <figcaption style="font-size:12px;margin-top:6px">Next.js</figcaption>
+  </figure>
+  <figure style="text-align:center;width:96px;margin:6px;display:flex;flex-direction:column;align-items:center;">
+    <img src="./assets/fa-express.gif" alt="Express" width="64" />
+    <figcaption style="font-size:12px;margin-top:6px">Express</figcaption>
+  </figure>
+</div>
 
 ---
 
