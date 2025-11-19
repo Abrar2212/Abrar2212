@@ -59,16 +59,24 @@ A real-estate platform built using **PHP + MySQL** with:
 ---
 
 <!-- GitHub stats: two cards, same size and responsive -->
-<p align="center" style="display:flex; gap:12px; align-items:stretch; flex-wrap:wrap;">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Abrar2212&show_icons=true&theme=radical"
-    alt="GitHub stats"
-    style="flex:1 1 48%; max-width:48%; height:260px; object-fit:cover; border-radius:8px;"/>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar2212&layout=compact&theme=radical"
-    alt="Top languages"
-    style="flex:1 1 48%; max-width:48%; height:260px; object-fit:cover; border-radius:8px;"/>
-</p>
+<div style="display:flex; justify-content:center; align-items:center; gap:20px; flex-wrap:nowrap;">
+
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Abrar2212&show_icons=true&theme=radical" 
+    alt="GitHub stats" 
+    style="width:48%; min-width:350px; height:auto;"
+  />
+
+  <!-- Most Used Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar2212&layout=compact&theme=radical" 
+    alt="Top languages" 
+    style="width:48%; min-width:350px; height:auto;"
+  />
+
+</div>
+
 
 
 
@@ -79,19 +87,19 @@ A real-estate platform built using **PHP + MySQL** with:
       <td align="center" style="vertical-align:middle;padding:8px;">
         <a href="mailto:abrarjunaed22@gamil.com" style="text-decoration:none;color:inherit;">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="36" alt="Email" style="display:block;margin:0 auto 6px;" />
-          <div style="font-size:13px;color:#222;">Email</div>
+          <div style="font-size:13px;color:#222;"></div>
         </a>
       </td>
       <td align="center" style="vertical-align:middle;padding:8px;">
         <a href="https://github.com/Abrar2212" style="text-decoration:none;color:inherit;">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36" alt="GitHub" style="display:block;margin:0 auto 6px;" />
-          <div style="font-size:13px;color:#222;">GitHub</div>
+          <div style="font-size:13px;color:#222;"></div>
         </a>
       </td>
       <td align="center" style="vertical-align:middle;padding:8px;">
         <a href="https://www.facebook.com/abrar.junaed.2025" style="text-decoration:none;color:inherit;">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="36" alt="Facebook" style="display:block;margin:0 auto 6px;" />
-          <div style="font-size:13px;color:#222;">Facebook</div>
+          <div style="font-size:13px;color:#222;"></div>
         </a>
       </td>
     </tr>
