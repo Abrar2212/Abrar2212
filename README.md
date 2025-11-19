@@ -85,31 +85,34 @@ A real-estate platform built using **PHP + MySQL** with:
 
   <!-- Stats Card -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Abrar2212&show_icons=true&theme=tokyonight&border_radius=10&bg_color=0,1b1c31,191a2e&title_color=9d4edd&icon_color=00f5ff&text_color=c9d1d9" 
+    src="https://github-readme-stats.vercel.app/api?username=Abrar2212&show_icons=true&border_radius=12&bg_color=20,2a0845,6441a5&title_color=e4d9ff&icon_color=ffb7ff&text_color=f3eaff" 
     alt="GitHub Stats" 
     width="420"
     height="210"
-    style="border-radius: 12px; margin: 10px;"
+    style="border-radius: 12px; margin: 12px;"
   />
 
-  <!-- Languages Card -->
+  <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar2212&layout=compact&theme=tokyonight&border_radius=10&bg_color=0,1b1c31,191a2e&title_color=9d4edd&text_color=c9d1d9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar2212&layout=compact&border_radius=12&bg_color=20,2a0845,6441a5&title_color=e4d9ff&text_color=f3eaff" 
     alt="Top Languages" 
     width="350"
     height="210"
-    style="border-radius: 12px; margin: 10px;"
+    style="border-radius: 12px; margin: 12px;"
   />
 
 </div>
 
-<!-- Profile Views Badge (Styled & Colored) -->
+<!-- Profile Views -->
 <p align="right">
   <img 
-    src="https://komarev.com/ghpvc/?username=Abrar2212&label=Profile+Views&color=9d4edd&style=for-the-badge" 
+    src="https://komarev.com/ghpvc/?username=Abrar2212&label=PROFILE+VIEWS&color=6441a5&style=flat-square" 
     alt="Profile Views"
   />
 </p>
+
+
+
 
 
 
