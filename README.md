@@ -43,10 +43,10 @@ I am passionate about building clean systems, solving complex problems, and impr
 
 </td>
 
-<td width="35%" align="right" valign="top" style="padding-left:16px;">
+<td width="35%" align="right" valign="top">
 
 <!-- Banner on the RIGHT -->
-<img src="./assets/banner.gif" alt="Banner" width="220" style="border-radius:8px;max-width:100%;height:auto;display:block;margin-left:auto;" />
+<img src="./assets/banner.gif" alt="Banner" width="220" style="border-radius:8px;max-width:100%;height:auto;display:block;float:right;" />
 
 </td>
 </tr>
