@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 # Abrar Junaed – GitHub Profile
 
-Create a clean, modern GitHub profile README for **Abrar Zunaid**, a CSE student at **UIU**.
 
 ## 🎯 About Me
 I’m passionate about ML, Java development, C programming, and building academic + personal projects.
@@ -33,8 +32,8 @@ I’m passionate about ML, Java development, C programming, and building academi
 - **UIU Bookshop (C):** File-handling based management system  
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=Abrar2212&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar2212&layout=compact)
 
 ## 📬 Contact
-Email: abrarjunaed2.com
+Email: abrarjunaed22.com
