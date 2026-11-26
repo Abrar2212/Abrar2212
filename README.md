@@ -13,7 +13,7 @@
   <!-- Quick Links & Social Extensions -->
   <p align="center">
     <a href="https://junaed.vercel.app/" target="_blank">
-      <img src="https://junaed.vercel.app/" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-Live_Site-7aa2f7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27" alt="Portfolio" />
     </a>
     <a href="mailto:abrarjunaed22@gmail.com">
       <img src="https://img.shields.io/badge/Email-abrarjunaed22%40gmail.com-bb9af7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email" />
