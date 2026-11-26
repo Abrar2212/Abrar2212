@@ -12,7 +12,7 @@
 
   <!-- Quick Links & Social Extensions -->
   <p align="center">
-    <a href="https://portfolio-coral-kappa.vercel.app" target="_blank">
+    <a href="https://junaed.vercel.app/" target="_blank">
       <img src="https://junaed.vercel.app/" alt="Portfolio" />
     </a>
     <a href="mailto:abrarjunaed22@gmail.com">
